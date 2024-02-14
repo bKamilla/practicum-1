@@ -1,5 +1,5 @@
 # Practicum-1
-# Developer:Batrakova K.
+# Developer: Batrakova K.
 #
 print('Hello,Python!')
 
