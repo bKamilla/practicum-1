@@ -1,4 +1,4 @@
 # Practicum-1
 # Developer: Batrakova K.
 #
-print('Hello','Python!',sep=' ')
+print('Привет','Python!',sep=' ')
