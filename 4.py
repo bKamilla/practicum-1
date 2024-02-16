@@ -1,3 +1,6 @@
 # Practicum-1
 # Developer: Batrakova K.
 #
+print('''(\___/)
+(='.'=)
+(")_(")''')
