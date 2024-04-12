@@ -1,6 +1,5 @@
 # Practicum-1
 # Developer: Batrakova K.
 #
-print('Как Вас зовут?')
-name1 = input()
+name1= input('Как Вас зовут?')
 print('Привет, ' + name1 + '!')
