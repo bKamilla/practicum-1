@@ -1,11 +1,8 @@
 # Practicum-1
 # Developer: Batrakova K.
 #
-print('Login: ')
-login = input()
-print('Password: ')
-password = input()
-print('New password: ')
-newpassword = input()
+login= input('Login: ')
+password= input('Password: ')
+newpassword= input('New password: ')
 print('User ',login,' has changed the password to ',newpassword)
 
